@@ -7,7 +7,8 @@
 #include "military.h"
 
 class tanks: military {
-
+public:
+    tanks(int x, int y, int size, int firepower, int hp, int distance);
 };
 
 

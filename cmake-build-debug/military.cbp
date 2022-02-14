@@ -80,7 +80,67 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/informatika/military/Creature.cpp">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/Creature.h">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/aircraft_carrier.cpp">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/aircraft_carrier.h">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/attack_aircraft.cpp">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/attack_aircraft.h">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/boat.cpp">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/boat.h">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/bomber_aircraft.cpp">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/bomber_aircraft.h">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/destroyer.cpp">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/destroyer.h">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/fighter_aircraft.cpp">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/fighter_aircraft.h">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/heavy_tank.cpp">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/heavy_tank.h">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/light_tank.cpp">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/light_tank.h">
+			<Option target="military"/>
+		</Unit>
 		<Unit filename="D:/informatika/military/main.cpp">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/medium_tank.cpp">
+			<Option target="military"/>
+		</Unit>
+		<Unit filename="D:/informatika/military/medium_tank.h">
 			<Option target="military"/>
 		</Unit>
 		<Unit filename="D:/informatika/military/military.cpp">

@@ -141,13 +141,153 @@ CMakeFiles/military.dir/ships.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/military.dir/ships.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\informatika\military\ships.cpp -o CMakeFiles\military.dir\ships.cpp.s
 
+CMakeFiles/military.dir/Creature.cpp.obj: CMakeFiles/military.dir/flags.make
+CMakeFiles/military.dir/Creature.cpp.obj: ../Creature.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/military.dir/Creature.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\military.dir\Creature.cpp.obj -c D:\informatika\military\Creature.cpp
+
+CMakeFiles/military.dir/Creature.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/military.dir/Creature.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\informatika\military\Creature.cpp > CMakeFiles\military.dir\Creature.cpp.i
+
+CMakeFiles/military.dir/Creature.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/military.dir/Creature.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\informatika\military\Creature.cpp -o CMakeFiles\military.dir\Creature.cpp.s
+
+CMakeFiles/military.dir/aircraft_carrier.cpp.obj: CMakeFiles/military.dir/flags.make
+CMakeFiles/military.dir/aircraft_carrier.cpp.obj: ../aircraft_carrier.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/military.dir/aircraft_carrier.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\military.dir\aircraft_carrier.cpp.obj -c D:\informatika\military\aircraft_carrier.cpp
+
+CMakeFiles/military.dir/aircraft_carrier.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/military.dir/aircraft_carrier.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\informatika\military\aircraft_carrier.cpp > CMakeFiles\military.dir\aircraft_carrier.cpp.i
+
+CMakeFiles/military.dir/aircraft_carrier.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/military.dir/aircraft_carrier.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\informatika\military\aircraft_carrier.cpp -o CMakeFiles\military.dir\aircraft_carrier.cpp.s
+
+CMakeFiles/military.dir/destroyer.cpp.obj: CMakeFiles/military.dir/flags.make
+CMakeFiles/military.dir/destroyer.cpp.obj: ../destroyer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/military.dir/destroyer.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\military.dir\destroyer.cpp.obj -c D:\informatika\military\destroyer.cpp
+
+CMakeFiles/military.dir/destroyer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/military.dir/destroyer.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\informatika\military\destroyer.cpp > CMakeFiles\military.dir\destroyer.cpp.i
+
+CMakeFiles/military.dir/destroyer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/military.dir/destroyer.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\informatika\military\destroyer.cpp -o CMakeFiles\military.dir\destroyer.cpp.s
+
+CMakeFiles/military.dir/boat.cpp.obj: CMakeFiles/military.dir/flags.make
+CMakeFiles/military.dir/boat.cpp.obj: ../boat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/military.dir/boat.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\military.dir\boat.cpp.obj -c D:\informatika\military\boat.cpp
+
+CMakeFiles/military.dir/boat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/military.dir/boat.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\informatika\military\boat.cpp > CMakeFiles\military.dir\boat.cpp.i
+
+CMakeFiles/military.dir/boat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/military.dir/boat.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\informatika\military\boat.cpp -o CMakeFiles\military.dir\boat.cpp.s
+
+CMakeFiles/military.dir/attack_aircraft.cpp.obj: CMakeFiles/military.dir/flags.make
+CMakeFiles/military.dir/attack_aircraft.cpp.obj: ../attack_aircraft.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/military.dir/attack_aircraft.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\military.dir\attack_aircraft.cpp.obj -c D:\informatika\military\attack_aircraft.cpp
+
+CMakeFiles/military.dir/attack_aircraft.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/military.dir/attack_aircraft.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\informatika\military\attack_aircraft.cpp > CMakeFiles\military.dir\attack_aircraft.cpp.i
+
+CMakeFiles/military.dir/attack_aircraft.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/military.dir/attack_aircraft.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\informatika\military\attack_aircraft.cpp -o CMakeFiles\military.dir\attack_aircraft.cpp.s
+
+CMakeFiles/military.dir/bomber_aircraft.cpp.obj: CMakeFiles/military.dir/flags.make
+CMakeFiles/military.dir/bomber_aircraft.cpp.obj: ../bomber_aircraft.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/military.dir/bomber_aircraft.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\military.dir\bomber_aircraft.cpp.obj -c D:\informatika\military\bomber_aircraft.cpp
+
+CMakeFiles/military.dir/bomber_aircraft.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/military.dir/bomber_aircraft.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\informatika\military\bomber_aircraft.cpp > CMakeFiles\military.dir\bomber_aircraft.cpp.i
+
+CMakeFiles/military.dir/bomber_aircraft.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/military.dir/bomber_aircraft.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\informatika\military\bomber_aircraft.cpp -o CMakeFiles\military.dir\bomber_aircraft.cpp.s
+
+CMakeFiles/military.dir/fighter_aircraft.cpp.obj: CMakeFiles/military.dir/flags.make
+CMakeFiles/military.dir/fighter_aircraft.cpp.obj: ../fighter_aircraft.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/military.dir/fighter_aircraft.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\military.dir\fighter_aircraft.cpp.obj -c D:\informatika\military\fighter_aircraft.cpp
+
+CMakeFiles/military.dir/fighter_aircraft.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/military.dir/fighter_aircraft.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\informatika\military\fighter_aircraft.cpp > CMakeFiles\military.dir\fighter_aircraft.cpp.i
+
+CMakeFiles/military.dir/fighter_aircraft.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/military.dir/fighter_aircraft.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\informatika\military\fighter_aircraft.cpp -o CMakeFiles\military.dir\fighter_aircraft.cpp.s
+
+CMakeFiles/military.dir/heavy_tank.cpp.obj: CMakeFiles/military.dir/flags.make
+CMakeFiles/military.dir/heavy_tank.cpp.obj: ../heavy_tank.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/military.dir/heavy_tank.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\military.dir\heavy_tank.cpp.obj -c D:\informatika\military\heavy_tank.cpp
+
+CMakeFiles/military.dir/heavy_tank.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/military.dir/heavy_tank.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\informatika\military\heavy_tank.cpp > CMakeFiles\military.dir\heavy_tank.cpp.i
+
+CMakeFiles/military.dir/heavy_tank.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/military.dir/heavy_tank.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\informatika\military\heavy_tank.cpp -o CMakeFiles\military.dir\heavy_tank.cpp.s
+
+CMakeFiles/military.dir/medium_tank.cpp.obj: CMakeFiles/military.dir/flags.make
+CMakeFiles/military.dir/medium_tank.cpp.obj: ../medium_tank.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/military.dir/medium_tank.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\military.dir\medium_tank.cpp.obj -c D:\informatika\military\medium_tank.cpp
+
+CMakeFiles/military.dir/medium_tank.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/military.dir/medium_tank.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\informatika\military\medium_tank.cpp > CMakeFiles\military.dir\medium_tank.cpp.i
+
+CMakeFiles/military.dir/medium_tank.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/military.dir/medium_tank.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\informatika\military\medium_tank.cpp -o CMakeFiles\military.dir\medium_tank.cpp.s
+
+CMakeFiles/military.dir/light_tank.cpp.obj: CMakeFiles/military.dir/flags.make
+CMakeFiles/military.dir/light_tank.cpp.obj: ../light_tank.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/military.dir/light_tank.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\military.dir\light_tank.cpp.obj -c D:\informatika\military\light_tank.cpp
+
+CMakeFiles/military.dir/light_tank.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/military.dir/light_tank.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\informatika\military\light_tank.cpp > CMakeFiles\military.dir\light_tank.cpp.i
+
+CMakeFiles/military.dir/light_tank.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/military.dir/light_tank.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\informatika\military\light_tank.cpp -o CMakeFiles\military.dir\light_tank.cpp.s
+
 # Object files for target military
 military_OBJECTS = \
 "CMakeFiles/military.dir/main.cpp.obj" \
 "CMakeFiles/military.dir/military.cpp.obj" \
 "CMakeFiles/military.dir/planes.cpp.obj" \
 "CMakeFiles/military.dir/tanks.cpp.obj" \
-"CMakeFiles/military.dir/ships.cpp.obj"
+"CMakeFiles/military.dir/ships.cpp.obj" \
+"CMakeFiles/military.dir/Creature.cpp.obj" \
+"CMakeFiles/military.dir/aircraft_carrier.cpp.obj" \
+"CMakeFiles/military.dir/destroyer.cpp.obj" \
+"CMakeFiles/military.dir/boat.cpp.obj" \
+"CMakeFiles/military.dir/attack_aircraft.cpp.obj" \
+"CMakeFiles/military.dir/bomber_aircraft.cpp.obj" \
+"CMakeFiles/military.dir/fighter_aircraft.cpp.obj" \
+"CMakeFiles/military.dir/heavy_tank.cpp.obj" \
+"CMakeFiles/military.dir/medium_tank.cpp.obj" \
+"CMakeFiles/military.dir/light_tank.cpp.obj"
 
 # External object files for target military
 military_EXTERNAL_OBJECTS =
@@ -157,11 +297,21 @@ military.exe: CMakeFiles/military.dir/military.cpp.obj
 military.exe: CMakeFiles/military.dir/planes.cpp.obj
 military.exe: CMakeFiles/military.dir/tanks.cpp.obj
 military.exe: CMakeFiles/military.dir/ships.cpp.obj
+military.exe: CMakeFiles/military.dir/Creature.cpp.obj
+military.exe: CMakeFiles/military.dir/aircraft_carrier.cpp.obj
+military.exe: CMakeFiles/military.dir/destroyer.cpp.obj
+military.exe: CMakeFiles/military.dir/boat.cpp.obj
+military.exe: CMakeFiles/military.dir/attack_aircraft.cpp.obj
+military.exe: CMakeFiles/military.dir/bomber_aircraft.cpp.obj
+military.exe: CMakeFiles/military.dir/fighter_aircraft.cpp.obj
+military.exe: CMakeFiles/military.dir/heavy_tank.cpp.obj
+military.exe: CMakeFiles/military.dir/medium_tank.cpp.obj
+military.exe: CMakeFiles/military.dir/light_tank.cpp.obj
 military.exe: CMakeFiles/military.dir/build.make
 military.exe: CMakeFiles/military.dir/linklibs.rsp
 military.exe: CMakeFiles/military.dir/objects1.rsp
 military.exe: CMakeFiles/military.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable military.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\informatika\military\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable military.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\military.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

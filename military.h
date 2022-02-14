@@ -4,17 +4,21 @@
 
 #ifndef MILITARY_MILITARY_H
 #define MILITARY_MILITARY_H
-
-
+#include<iostream>
+#include<cstdlib>
 class military {
 protected:
-    int hp;
-    int firepower;
     int x;
     int y;
     int size;
+    int firepower;
+    int hp;
+    int distance;
+
 public:
 
+    virtual ~military()=0;
+    military(int x, int y,  int size, int firepower, int hp, int distance);
 };
 
 

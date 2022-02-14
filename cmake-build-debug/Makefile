@@ -142,6 +142,249 @@ military/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/build
 .PHONY : military/fast
 
+Creature.obj: Creature.cpp.obj
+
+.PHONY : Creature.obj
+
+# target to build an object file
+Creature.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/Creature.cpp.obj
+.PHONY : Creature.cpp.obj
+
+Creature.i: Creature.cpp.i
+
+.PHONY : Creature.i
+
+# target to preprocess a source file
+Creature.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/Creature.cpp.i
+.PHONY : Creature.cpp.i
+
+Creature.s: Creature.cpp.s
+
+.PHONY : Creature.s
+
+# target to generate assembly for a file
+Creature.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/Creature.cpp.s
+.PHONY : Creature.cpp.s
+
+aircraft_carrier.obj: aircraft_carrier.cpp.obj
+
+.PHONY : aircraft_carrier.obj
+
+# target to build an object file
+aircraft_carrier.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/aircraft_carrier.cpp.obj
+.PHONY : aircraft_carrier.cpp.obj
+
+aircraft_carrier.i: aircraft_carrier.cpp.i
+
+.PHONY : aircraft_carrier.i
+
+# target to preprocess a source file
+aircraft_carrier.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/aircraft_carrier.cpp.i
+.PHONY : aircraft_carrier.cpp.i
+
+aircraft_carrier.s: aircraft_carrier.cpp.s
+
+.PHONY : aircraft_carrier.s
+
+# target to generate assembly for a file
+aircraft_carrier.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/aircraft_carrier.cpp.s
+.PHONY : aircraft_carrier.cpp.s
+
+attack_aircraft.obj: attack_aircraft.cpp.obj
+
+.PHONY : attack_aircraft.obj
+
+# target to build an object file
+attack_aircraft.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/attack_aircraft.cpp.obj
+.PHONY : attack_aircraft.cpp.obj
+
+attack_aircraft.i: attack_aircraft.cpp.i
+
+.PHONY : attack_aircraft.i
+
+# target to preprocess a source file
+attack_aircraft.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/attack_aircraft.cpp.i
+.PHONY : attack_aircraft.cpp.i
+
+attack_aircraft.s: attack_aircraft.cpp.s
+
+.PHONY : attack_aircraft.s
+
+# target to generate assembly for a file
+attack_aircraft.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/attack_aircraft.cpp.s
+.PHONY : attack_aircraft.cpp.s
+
+boat.obj: boat.cpp.obj
+
+.PHONY : boat.obj
+
+# target to build an object file
+boat.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/boat.cpp.obj
+.PHONY : boat.cpp.obj
+
+boat.i: boat.cpp.i
+
+.PHONY : boat.i
+
+# target to preprocess a source file
+boat.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/boat.cpp.i
+.PHONY : boat.cpp.i
+
+boat.s: boat.cpp.s
+
+.PHONY : boat.s
+
+# target to generate assembly for a file
+boat.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/boat.cpp.s
+.PHONY : boat.cpp.s
+
+bomber_aircraft.obj: bomber_aircraft.cpp.obj
+
+.PHONY : bomber_aircraft.obj
+
+# target to build an object file
+bomber_aircraft.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/bomber_aircraft.cpp.obj
+.PHONY : bomber_aircraft.cpp.obj
+
+bomber_aircraft.i: bomber_aircraft.cpp.i
+
+.PHONY : bomber_aircraft.i
+
+# target to preprocess a source file
+bomber_aircraft.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/bomber_aircraft.cpp.i
+.PHONY : bomber_aircraft.cpp.i
+
+bomber_aircraft.s: bomber_aircraft.cpp.s
+
+.PHONY : bomber_aircraft.s
+
+# target to generate assembly for a file
+bomber_aircraft.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/bomber_aircraft.cpp.s
+.PHONY : bomber_aircraft.cpp.s
+
+destroyer.obj: destroyer.cpp.obj
+
+.PHONY : destroyer.obj
+
+# target to build an object file
+destroyer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/destroyer.cpp.obj
+.PHONY : destroyer.cpp.obj
+
+destroyer.i: destroyer.cpp.i
+
+.PHONY : destroyer.i
+
+# target to preprocess a source file
+destroyer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/destroyer.cpp.i
+.PHONY : destroyer.cpp.i
+
+destroyer.s: destroyer.cpp.s
+
+.PHONY : destroyer.s
+
+# target to generate assembly for a file
+destroyer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/destroyer.cpp.s
+.PHONY : destroyer.cpp.s
+
+fighter_aircraft.obj: fighter_aircraft.cpp.obj
+
+.PHONY : fighter_aircraft.obj
+
+# target to build an object file
+fighter_aircraft.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/fighter_aircraft.cpp.obj
+.PHONY : fighter_aircraft.cpp.obj
+
+fighter_aircraft.i: fighter_aircraft.cpp.i
+
+.PHONY : fighter_aircraft.i
+
+# target to preprocess a source file
+fighter_aircraft.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/fighter_aircraft.cpp.i
+.PHONY : fighter_aircraft.cpp.i
+
+fighter_aircraft.s: fighter_aircraft.cpp.s
+
+.PHONY : fighter_aircraft.s
+
+# target to generate assembly for a file
+fighter_aircraft.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/fighter_aircraft.cpp.s
+.PHONY : fighter_aircraft.cpp.s
+
+heavy_tank.obj: heavy_tank.cpp.obj
+
+.PHONY : heavy_tank.obj
+
+# target to build an object file
+heavy_tank.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/heavy_tank.cpp.obj
+.PHONY : heavy_tank.cpp.obj
+
+heavy_tank.i: heavy_tank.cpp.i
+
+.PHONY : heavy_tank.i
+
+# target to preprocess a source file
+heavy_tank.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/heavy_tank.cpp.i
+.PHONY : heavy_tank.cpp.i
+
+heavy_tank.s: heavy_tank.cpp.s
+
+.PHONY : heavy_tank.s
+
+# target to generate assembly for a file
+heavy_tank.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/heavy_tank.cpp.s
+.PHONY : heavy_tank.cpp.s
+
+light_tank.obj: light_tank.cpp.obj
+
+.PHONY : light_tank.obj
+
+# target to build an object file
+light_tank.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/light_tank.cpp.obj
+.PHONY : light_tank.cpp.obj
+
+light_tank.i: light_tank.cpp.i
+
+.PHONY : light_tank.i
+
+# target to preprocess a source file
+light_tank.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/light_tank.cpp.i
+.PHONY : light_tank.cpp.i
+
+light_tank.s: light_tank.cpp.s
+
+.PHONY : light_tank.s
+
+# target to generate assembly for a file
+light_tank.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/light_tank.cpp.s
+.PHONY : light_tank.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -168,6 +411,33 @@ main.s: main.cpp.s
 main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/main.cpp.s
 .PHONY : main.cpp.s
+
+medium_tank.obj: medium_tank.cpp.obj
+
+.PHONY : medium_tank.obj
+
+# target to build an object file
+medium_tank.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/medium_tank.cpp.obj
+.PHONY : medium_tank.cpp.obj
+
+medium_tank.i: medium_tank.cpp.i
+
+.PHONY : medium_tank.i
+
+# target to preprocess a source file
+medium_tank.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/medium_tank.cpp.i
+.PHONY : medium_tank.cpp.i
+
+medium_tank.s: medium_tank.cpp.s
+
+.PHONY : medium_tank.s
+
+# target to generate assembly for a file
+medium_tank.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/medium_tank.cpp.s
+.PHONY : medium_tank.cpp.s
 
 military.obj: military.cpp.obj
 
@@ -286,9 +556,39 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... military
+	@echo ... Creature.obj
+	@echo ... Creature.i
+	@echo ... Creature.s
+	@echo ... aircraft_carrier.obj
+	@echo ... aircraft_carrier.i
+	@echo ... aircraft_carrier.s
+	@echo ... attack_aircraft.obj
+	@echo ... attack_aircraft.i
+	@echo ... attack_aircraft.s
+	@echo ... boat.obj
+	@echo ... boat.i
+	@echo ... boat.s
+	@echo ... bomber_aircraft.obj
+	@echo ... bomber_aircraft.i
+	@echo ... bomber_aircraft.s
+	@echo ... destroyer.obj
+	@echo ... destroyer.i
+	@echo ... destroyer.s
+	@echo ... fighter_aircraft.obj
+	@echo ... fighter_aircraft.i
+	@echo ... fighter_aircraft.s
+	@echo ... heavy_tank.obj
+	@echo ... heavy_tank.i
+	@echo ... heavy_tank.s
+	@echo ... light_tank.obj
+	@echo ... light_tank.i
+	@echo ... light_tank.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... medium_tank.obj
+	@echo ... medium_tank.i
+	@echo ... medium_tank.s
 	@echo ... military.obj
 	@echo ... military.i
 	@echo ... military.s

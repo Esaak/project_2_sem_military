@@ -3,3 +3,4 @@
 //
 
 #include "tanks.h"
+tanks::tanks(int x, int y, int size, int firepower, int hp, int distance): military(x,y,size, firepower, hp, distance){}

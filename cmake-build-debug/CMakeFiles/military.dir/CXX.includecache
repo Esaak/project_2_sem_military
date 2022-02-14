@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/informatika/military/main.cpp
+iostream
+-
+military.h
+D:/informatika/military/military.h
+planes.h
+D:/informatika/military/planes.h
+
+D:/informatika/military/military.h
+
+D:/informatika/military/planes.cpp
+planes.h
+D:/informatika/military/planes.h
+
+D:/informatika/military/planes.h
+iostream
+-
+military.h
+D:/informatika/military/military.h
+

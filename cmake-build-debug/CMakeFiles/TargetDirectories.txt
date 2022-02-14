@@ -1,0 +1,3 @@
+D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir
+D:/informatika/military/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/informatika/military/cmake-build-debug/CMakeFiles/rebuild_cache.dir

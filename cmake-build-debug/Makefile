@@ -169,6 +169,60 @@ Creature.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/Creature.cpp.s
 .PHONY : Creature.cpp.s
 
+GameTile.obj: GameTile.cpp.obj
+
+.PHONY : GameTile.obj
+
+# target to build an object file
+GameTile.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/GameTile.cpp.obj
+.PHONY : GameTile.cpp.obj
+
+GameTile.i: GameTile.cpp.i
+
+.PHONY : GameTile.i
+
+# target to preprocess a source file
+GameTile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/GameTile.cpp.i
+.PHONY : GameTile.cpp.i
+
+GameTile.s: GameTile.cpp.s
+
+.PHONY : GameTile.s
+
+# target to generate assembly for a file
+GameTile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/GameTile.cpp.s
+.PHONY : GameTile.cpp.s
+
+Gameworld.obj: Gameworld.cpp.obj
+
+.PHONY : Gameworld.obj
+
+# target to build an object file
+Gameworld.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/Gameworld.cpp.obj
+.PHONY : Gameworld.cpp.obj
+
+Gameworld.i: Gameworld.cpp.i
+
+.PHONY : Gameworld.i
+
+# target to preprocess a source file
+Gameworld.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/Gameworld.cpp.i
+.PHONY : Gameworld.cpp.i
+
+Gameworld.s: Gameworld.cpp.s
+
+.PHONY : Gameworld.s
+
+# target to generate assembly for a file
+Gameworld.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/Gameworld.cpp.s
+.PHONY : Gameworld.cpp.s
+
 aircraft_carrier.obj: aircraft_carrier.cpp.obj
 
 .PHONY : aircraft_carrier.obj
@@ -412,6 +466,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+map.obj: map.cpp.obj
+
+.PHONY : map.obj
+
+# target to build an object file
+map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/map.cpp.obj
+.PHONY : map.cpp.obj
+
+map.i: map.cpp.i
+
+.PHONY : map.i
+
+# target to preprocess a source file
+map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/map.cpp.i
+.PHONY : map.cpp.i
+
+map.s: map.cpp.s
+
+.PHONY : map.s
+
+# target to generate assembly for a file
+map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\military.dir\build.make CMakeFiles/military.dir/map.cpp.s
+.PHONY : map.cpp.s
+
 medium_tank.obj: medium_tank.cpp.obj
 
 .PHONY : medium_tank.obj
@@ -559,6 +640,12 @@ help:
 	@echo ... Creature.obj
 	@echo ... Creature.i
 	@echo ... Creature.s
+	@echo ... GameTile.obj
+	@echo ... GameTile.i
+	@echo ... GameTile.s
+	@echo ... Gameworld.obj
+	@echo ... Gameworld.i
+	@echo ... Gameworld.s
 	@echo ... aircraft_carrier.obj
 	@echo ... aircraft_carrier.i
 	@echo ... aircraft_carrier.s
@@ -586,6 +673,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... map.obj
+	@echo ... map.i
+	@echo ... map.s
 	@echo ... medium_tank.obj
 	@echo ... medium_tank.i
 	@echo ... medium_tank.s

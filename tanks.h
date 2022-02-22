@@ -6,9 +6,10 @@
 #define MILITARY_TANKS_H
 #include "military.h"
 
-class tanks: military {
+class tanks: public military {
 public:
-    tanks(int x, int y, int size, int firepower, int hp, int distance);
+    tanks(int x, int y, int size, int firepower, int hp, int distance, char direction);
+
 };
 
 

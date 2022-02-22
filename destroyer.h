@@ -6,9 +6,13 @@
 #define MILITARY_DESTROYER_H
 #include "ships.h"
 
-class destroyer:ships {
+class destroyer:public ships {
+private:
+    std::string s = "../picture/destroyer1.png";
 public:
-    destroyer(int x, int y);
+    destroyer(int x, int y, char direction);
+    std::string get_link() final;
+    std:: pair<int,int> get_coordinates() final;
 };
 
 

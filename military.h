@@ -4,21 +4,23 @@
 
 #ifndef MILITARY_MILITARY_H
 #define MILITARY_MILITARY_H
-#include<iostream>
 #include<cstdlib>
+#include <iostream>
 class military {
 protected:
-    int x;
-    int y;
+    std::pair<int, int>coordinates;
     int size;
     int firepower;
     int hp;
     int distance;
-
+    char direction;
 public:
 
-    virtual ~military()=0;
-    military(int x, int y,  int size, int firepower, int hp, int distance);
+     ~military(){};
+    military(int x, int y,  int size, int firepower, int hp, int distance, char direction);
+    //virtual get_components()=0;
+    virtual std::string get_link()=0;
+    virtual std::pair<int,int> get_coordinates()=0;
 };
 
 

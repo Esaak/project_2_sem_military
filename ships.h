@@ -6,9 +6,9 @@
 #define MILITARY_SHIPS_H
 #include "military.h"
 
-class ships: military {
+class ships:public military {
 public:
-    ships(int x,int y, int size, int firepower,int hp, int distance);
+    ships(int x,int y, int size, int firepower,int hp, int distance, char direction);
 };
 
 

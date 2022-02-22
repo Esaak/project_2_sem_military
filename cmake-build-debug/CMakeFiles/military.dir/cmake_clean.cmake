@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/military.dir/Creature.cpp.obj"
+  "CMakeFiles/military.dir/GameTile.cpp.obj"
+  "CMakeFiles/military.dir/Gameworld.cpp.obj"
   "CMakeFiles/military.dir/aircraft_carrier.cpp.obj"
   "CMakeFiles/military.dir/attack_aircraft.cpp.obj"
   "CMakeFiles/military.dir/boat.cpp.obj"
@@ -9,6 +11,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/military.dir/heavy_tank.cpp.obj"
   "CMakeFiles/military.dir/light_tank.cpp.obj"
   "CMakeFiles/military.dir/main.cpp.obj"
+  "CMakeFiles/military.dir/map.cpp.obj"
   "CMakeFiles/military.dir/medium_tank.cpp.obj"
   "CMakeFiles/military.dir/military.cpp.obj"
   "CMakeFiles/military.dir/planes.cpp.obj"

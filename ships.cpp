@@ -3,4 +3,4 @@
 //
 
 #include "ships.h"
-ships::ships(int x, int y, int size, int firepower, int hp,int distance): military(x,y, size, firepower, hp, int distance) {}
+ships::ships(int x, int y, int size, int firepower, int hp,int distance, char direction): military(x,y, size, firepower, hp, distance, direction) {}

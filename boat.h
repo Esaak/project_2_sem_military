@@ -6,9 +6,13 @@
 #define MILITARY_BOAT_H
 #include "ships.h"
 
-class boat:ships {
+class boat:public ships {
+private:
+    std::string s = "../picture/boat1.png";
 public:
     boat(int x, int y);
+    std::string get_link() final;
+    std:: pair<int,int> get_coordinates() final;
 };
 
 

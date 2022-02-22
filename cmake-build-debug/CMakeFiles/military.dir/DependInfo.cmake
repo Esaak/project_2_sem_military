@@ -5,6 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/informatika/military/Creature.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/Creature.cpp.obj"
+  "D:/informatika/military/GameTile.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/GameTile.cpp.obj"
+  "D:/informatika/military/Gameworld.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/Gameworld.cpp.obj"
   "D:/informatika/military/aircraft_carrier.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/aircraft_carrier.cpp.obj"
   "D:/informatika/military/attack_aircraft.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/attack_aircraft.cpp.obj"
   "D:/informatika/military/boat.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/boat.cpp.obj"
@@ -14,6 +16,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/informatika/military/heavy_tank.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/heavy_tank.cpp.obj"
   "D:/informatika/military/light_tank.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/light_tank.cpp.obj"
   "D:/informatika/military/main.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/main.cpp.obj"
+  "D:/informatika/military/map.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/map.cpp.obj"
   "D:/informatika/military/medium_tank.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/medium_tank.cpp.obj"
   "D:/informatika/military/military.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/military.cpp.obj"
   "D:/informatika/military/planes.cpp" "D:/informatika/military/cmake-build-debug/CMakeFiles/military.dir/planes.cpp.obj"
@@ -22,8 +25,14 @@ set(CMAKE_DEPENDS_CHECK_CXX
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "SFML_STATIC"
+  )
+
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "D:/informatika/SFML/include"
   )
 
 # Targets to which this target links.

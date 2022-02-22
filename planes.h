@@ -6,9 +6,10 @@
 #define MILITARY_PLANES_H
 #include<iostream>
 #include "military.h"
-class planes: military {
+class planes: public military {
 public:
-    planes(int x,int y, int size, int firepower, int hp, int distance);
+    planes(int x,int y, int size, int firepower, int hp, int distance, char direction);
+
 };
 
 
